@@ -1,0 +1,30 @@
+[submodule "kenuesel"]
+	path = kenuesel
+	url = https://bitbucket.org/TheAllSeeing/hpmor-source-knuesel/
+[submodule "IlCensore"]
+	path = IlCensore
+	url = https://github.com/TheAllSeeing/hpmor-source-ilcensore
+[submodule "Mikescher"]
+	path = Mikescher
+	url = https://github.com/Mikescher/HPMOR-LyX
+[submodule "ForeChin99"]
+	path = ForeChin99
+	url = https://github.com/TheAllSeeing/hpmor-source-forechin99
+[submodule "rjl20"]
+	path = rjl20
+	url = https://github.com/rjl20/hpmor/
+[submodule "bodanb"]
+	path = bodanb
+	url = https://github.com/bogdanb/hpmor
+[submodule "rdestenay"]
+	path = rdestenay
+	url = https://bitbucket.org/TheAllSeeing/hpmor-source-rdestenay
+[submodule "xenohedron"]
+	path = xenohedron
+	url = https://github.com/xenohedron/hpmor-xetex
+[submodule "dewwwy"]
+	path = dewwwy
+	url = https://github.com/TheAllSeeing/hpmor-source-dewwwy
+[submodule "dewwwey"]
+	path = dewwwey
+	url = https://github.com/TheAllSeeing/hpmor-source-dewwwy
