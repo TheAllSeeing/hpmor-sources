@@ -28,3 +28,9 @@
 [submodule "dewwwey"]
 	path = dewwwey
 	url = https://github.com/TheAllSeeing/hpmor-source-dewwwy
+[submodule "kabakchey"]
+	path = kabakchey
+	url = https://github.com/kabakchey/hpmor-1
+[submodule "rationality.co.il"]
+	path = rationality.co.il
+	url = https://github.com/TheAllSeeing/hpmor-source-hebrew
